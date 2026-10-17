@@ -24,7 +24,7 @@ Month-End Checklist.
 ## Free sample + demo video
 
 - **Free sample:** sheet map, sample-shop Dashboard numbers, stock math, first 3 steps. https://github.com/fexo9/shop-inventory-sales-manager/blob/main/FREE-SAMPLE-Shop-Inventory-Manager-v2.0.md
-- **Demo video:** 72-second walkthrough of the real files. [VIDEO-LINK]
+- **Demo video:** 72-second walkthrough of the real files. https://youtu.be/TZmAfxQsvpE
 
 ## What it does NOT do
 
